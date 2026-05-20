@@ -1,0 +1,15 @@
+{
+  "name": "Bronalculator",
+  "short_name": "Bronalculator",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#121214",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2639/2639683.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
